@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548071301240",
+    "project_id": "dilo---incremental-game-c8154",
+    "storage_bucket": "dilo---incremental-game-c8154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548071301240:android:222ee19e077a3c9d43cd8d",
+        "android_client_info": {
+          "package_name": "com.dilo.incrementalgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548071301240-3gthjm1ai3fj5aaa92ofo458sjd8ec87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZAw941T06pDCG-ByTKAGKqwKnyTPGNt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548071301240-3gthjm1ai3fj5aaa92ofo458sjd8ec87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
